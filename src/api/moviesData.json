@@ -1,0 +1,19 @@
+[
+    {
+        "name" : "Land of Bad",
+        "id" : "land-of-bad",
+        "img" : "public/land of bad.jpg",
+        "rating" : "6.6/10",
+        "description": "When a Delta Force team is ambushed in enemy territory, a rookie officer refuses to abandon them. Their only hope lies with an Air Force drone pilot as the eyes in the sky during a brutal 48-hour battle for survival.",
+        "watch" : "https://www.netflix.com/title/81747468"
+    },
+    {
+        "name" : "Extraction 2",
+        "id" : "extraction-2",
+        "img" : "public/extraction2.jpg",
+        "rating" : "7/10",
+        "description": "Back from the brink of death, commando Tyler Rake embarks on a dangerous mission to save a ruthless gangster's imprisoned family.",
+        "watch" : "https://www.netflix.com/title/81098494"
+    }
+
+]
