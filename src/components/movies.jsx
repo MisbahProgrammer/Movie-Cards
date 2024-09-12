@@ -5,7 +5,7 @@ const Cards = () => {
     <ul>
             {moviesData.map((currElm) =>{
                 return(
-              <MoviesData key={currElm.id} currElm ={currElm}/>
+              <MoviesData key={currElm.id} data ={currElm}/>
                 )
             })}   
           

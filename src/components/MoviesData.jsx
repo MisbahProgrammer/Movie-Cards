@@ -1,15 +1,16 @@
 import React from 'react'
 
-function MoviesData(props) {
+function MoviesData({data}) {
+  const {img,name,rating,description,watch} = data
   return (
     <li>
     <div>
-    <img src= {props.currElm.img} alt="" width="40%" height="40%" />
+    <img src= {img} alt="" width="40%" height="40%" />
   </div>
-  <h2>NAME: {props.currElm.name}</h2>
-  <h3>IMDB Rating : {props.currElm.rating}</h3>
-  <p>{props.currElm.description}</p>
-  <a href={props.currElm.watch} target="_blank">
+  <h2>NAME: {name}</h2>
+  <h3>IMDB Rating : {rating}</h3>
+  <p>{description}</p>
+  <a href={watch} target="_blank">
     <button>Watch Now</button>
   </a>
   </li>

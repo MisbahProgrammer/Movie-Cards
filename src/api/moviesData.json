@@ -2,7 +2,7 @@
     {
         "name" : "Land of Bad",
         "id" : "land-of-bad",
-        "img" : "public/land of bad.jpg",
+        "img" : "/land of bad.jpg",
         "rating" : "6.6/10",
         "description": "When a Delta Force team is ambushed in enemy territory, a rookie officer refuses to abandon them. Their only hope lies with an Air Force drone pilot as the eyes in the sky during a brutal 48-hour battle for survival.",
         "watch" : "https://www.netflix.com/title/81747468"
@@ -10,35 +10,35 @@
     {
         "name" : "Extraction 2",
         "id" : "extraction-2",
-        "img" : "public/extraction2.jpg",
+        "img" : "/extraction2.jpg",
         "rating" : "7/10",
         "description": "Back from the brink of death, commando Tyler Rake embarks on a dangerous mission to save a ruthless gangster's imprisoned family.",
         "watch" : "https://www.netflix.com/title/81098494"
     },{
         "name": "Lone Survivor",
         "id": "lone-survivor",
-        "img" :"public/lone.jpg",
+        "img" :"/lone.jpg",
         "rating": "7.5/10",
         "description": "Marcus Luttrell and three Navy SEALs are sent to locate Taliban leader Ahmad Shah in the Hindu Kush region of Afghanistan, where they become targets of enemy attacks.",
         "watch": "https://www.netflix.com/ca/title/70259795"
     },{
         "name": "12 Strong",
         "id": "12-strong",
-        "img" :"public/12strong.jpg",
+        "img" :"/12strong.jpg",
         "rating": "6.5/10",
         "description": "Captain Mitch Nelson leads an elite team on a mission to fight the Taliban in Afghanistan. As he uses the aid of a local warlord, the situation becomes more dangerous and morally complicated.",
         "watch": "https://www.netflix.com/es-en/title/80196613"
     },{
         "name": "Jarhead 3",
         "id": "jarhead-3",
-        "img" :"public/jarhead3.jpg",
+        "img" :"/jarhead3.jpg",
         "rating": "5.1/10",
         "description": "While guarding a US embassy in the Middle East, elite Marine Corporal Evan Albright and his unit are caught off guard when a group of terrorists attacks them.",
         "watch": "https://www.primevideo.com/detail/Jarhead-3-The-Siege/0U0HFRDAKDRA15A4858IO1S7XD"
     },{
         "name": "13 Hours",
         "id": "13-hours",
-        "img" :"public/13hours.jfif",
+        "img" :"/13hours.jfif",
         "rating": "7.3/10",
         "description": "A security team consisting of six members fights to defend an American diplomatic compound in Benghazi, Libya, against a wave of terrorist attacks..",
         "watch": "https://www.netflix.com/cc/title/80067930ss"
