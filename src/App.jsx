@@ -3,7 +3,7 @@ import Cards from './components/Movies.jsx'
 
 export const App = () => {
   return (
-    <>
+    <>    
       <Cards/>
     </>
   )
